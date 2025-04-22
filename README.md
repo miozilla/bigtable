@@ -9,7 +9,10 @@ bigtable : #bigtable #gcp #nosql #backup
 
 ![Screenshot3](./bigtable003.png)
 
+![Screenshot6](./bigtable006.png)
+
 ![Screenshot4](./bigtable004.png)
 
 ![Screenshot5](./bigtable005.png)
+
 
