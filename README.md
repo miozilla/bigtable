@@ -1,7 +1,11 @@
 # bigtable 🌀
 bigtable : #bigtable #gcp #nosql #backup #cbt
 
-## In Progress...
+## Objective
+To handle large-scale data workloads eg. key-value storage.
+To acquire high throughput and low latency.
+
+## Bigtable Database...
 
 ![Screenshot1](./bigtable001.png)
 
